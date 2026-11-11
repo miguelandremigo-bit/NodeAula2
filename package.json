@@ -1,0 +1,21 @@
+{
+  "name": "nodeaula2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "media-simples.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelandremigo-bit/NodeAula2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/miguelandremigo-bit/NodeAula2/issues"
+  },
+  "homepage": "https://github.com/miguelandremigo-bit/NodeAula2#readme"
+}
